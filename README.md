@@ -17,4 +17,4 @@ A simple weather dashboard built with JavaScript that fetches real-time data fro
 ## 🔑 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
+   git clone https://github.com/lamboshe/weather-dashboard.git
