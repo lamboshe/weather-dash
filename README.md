@@ -1,4 +1,4 @@
-# weather-lamboshe -dash
+# Lamboshe-weather-dash
 # 🌤 Weather Dashboard
 
 A simple weather dashboard built with JavaScript that fetches real-time data from the OpenWeatherMap API.
